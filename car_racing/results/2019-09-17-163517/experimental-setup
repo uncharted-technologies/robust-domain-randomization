@@ -1,0 +1,10 @@
+{'K_epochs': 20,
+ 'action_std': 0.2,
+ 'color_range': [0, 1],
+ 'eps_clip': 0.2,
+ 'gamma': 0.99,
+ 'lamda': 0,
+ 'learning_rate': 0.0001,
+ 'max_episodes': 1500,
+ 'randomize': False,
+ 'update_timestep': 1000}

@@ -1,0 +1,4 @@
+__pycache__
+venv
+visual_cartpole/results/training_curves/
+visual_cartpole/results/networks/
