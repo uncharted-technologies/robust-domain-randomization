@@ -7,9 +7,13 @@ Requirements can be found in the requirements.txt file.
 
 # Structure
 The project contains one folder per domain studied in the main text of our paper: the gridworld, the visual cartpole domain, and Car Racing. Each folder contains the following subfolders:
+
 **agent**: the learning agent: DQN, Vanilla Policy Gradient (VPG), or PPO
+
 **experiments**: containing scripts to reproduce the experiments reported in our paper.
+
 **results**: by default, the output of scripts from the experiments folder is saved here
+
 **plotting**: loads data from the results folder and plots it, yielding the figures in our paper
 
 # Running experiments: example
