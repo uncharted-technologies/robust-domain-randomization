@@ -1,5 +1,5 @@
 # Domain Randomization
-Code associated with our paper "Robust Domain Randomization for Reinforcement Learning"
+Code associated with our paper <a href="https://arxiv.org/abs/1910.10537">Robust Domain Randomization for Reinforcement Learning</a>
 
 # Requirements
 
@@ -34,3 +34,13 @@ In this project, we compare three agents : *Normal*, *Regularized* and *Randomiz
 - *Regularized* : RANDOMIZE = True, REGULARIZE = True
 - *Randomized* : RANDOMIZE = True, REGULARIZE = False
 
+## Reference
+
+If you find this work or the associated paper useful, it can be cited as below.
+
+    @article{slaoui2019robust,
+      title={Robust Domain Randomization for Reinforcement Learning},
+      author={Slaoui, Reda Bahi and Clements, William R and Foerster, Jakob N and Toth, Sebastien},
+      journal={arXiv preprint arXiv:1910.10537},
+      year={2019}
+    }
